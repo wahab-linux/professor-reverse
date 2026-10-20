@@ -1,0 +1,4 @@
+customtkinter==5.2.2
+pypdfium2==5.14.0
+Pillow==12.3.0
+pypdf==6.12.0
